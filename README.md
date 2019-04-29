@@ -11,6 +11,7 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
 
 * **Week Two**:
     * Notes (PDF)
+    * Quiz 1 - Linear Regression with Multiple Variables (PDF)
 
 I am currently taking the course. 
 This repository will be updated as I go.
