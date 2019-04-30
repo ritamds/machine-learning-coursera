@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning (Coursera)
 
 My handwritten notes, quizzes and programming assignments in Matlab and Python for the course [Machine Learning](https://www.coursera.org/learn/machine-learning), by Andrew Ng, on Coursera.
 
@@ -11,6 +11,7 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
 
 * **Week Two**:
     * Notes (PDF)
+    * Octave/Matlab Tutorial (MATLAB)
     * Quiz 1 - Linear Regression with Multiple Variables (PDF)
 
 I am currently taking the course. 
