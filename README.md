@@ -13,6 +13,7 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
     * Notes (PDF)
     * Octave/Matlab Tutorial (MATLAB)
     * Quiz 1 - Linear Regression with Multiple Variables (PDF)
+    * Quiz 2 - Octave/Matlab Tutorial (PDF)
     * Programming Assignment - Linear Regression (MATLAB)
 
 I am currently taking the course. 
