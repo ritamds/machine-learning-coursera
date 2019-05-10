@@ -9,6 +9,7 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
     * Quiz 1 - Introduction (PDF)
     * Quiz 2 - Linear Regression with One Variable (PDF)
 
+
 * **Week Two**:
     * Notes (PDF)
     * Octave/Matlab Tutorial (MATLAB)
@@ -17,8 +18,11 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
     * Programming Assignment - Linear Regression (MATLAB)
     * Programming Assignment - Linear Regression (PYTHON / JUPYTER NOTEBOOK)
 
+
 * **Week Three**:
     * Notes (PDF)
+    * Quiz 1 - Logistic Regression (PDF)
 
-I am currently taking the course.
+
+I am currently taking the course.   
 This repository will be updated as I go.
