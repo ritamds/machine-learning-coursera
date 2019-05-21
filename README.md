@@ -23,6 +23,7 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
     * Notes (PDF)
     * Quiz 1 - Logistic Regression (PDF)
     * Quiz 2 - Regularization (PDF)
+    * Programming Assignment - Logistic Regression (MATLAB)
 
 
 I am currently taking the course.   
