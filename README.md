@@ -25,6 +25,8 @@ My handwritten notes, quizzes and programming assignments in Matlab and Python f
     * Quiz 2 - Regularization (PDF)
     * Programming Assignment - Logistic Regression (MATLAB)
 
+* **Week Four**:
+    * Notes (PDF)
 
 I am currently taking the course.   
-This repository will be updated as I go.
+This repository is being updated as I go.
